@@ -1,0 +1,16 @@
+{
+    "name": "kurban900/convert-nullable-input",
+    "description": "",
+    "authors": [
+        {
+            "name": "Kurban Magomedov",
+            "email": "cuba.pro@ya.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kurban900\\ConvertNullableInput\\": "src/"
+        }
+    }
+}
